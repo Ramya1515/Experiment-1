@@ -1,5 +1,7 @@
-**##Experiment 1 
-##Matrix Operations and Linear Algebra Using NumPy**
+##Experiment 1 
+
+##Matrix Operations and Linear Algebra Using NumPy
+
 ## AIM
 
 Introduce matrix operations used in ML: transpose, inverse, solve linear systems, eigen decomposition.
