@@ -1,6 +1,6 @@
 # EXPERIMENT 1
 
-## TITLE: Matrix Operations and Linear Algebra Using NumPy
+## Matrix Operations and Linear Algebra Using NumPy
 
 ## AIM
 
